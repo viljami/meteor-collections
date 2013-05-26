@@ -1,0 +1,8 @@
+{
+  "name": "collections",
+  "description": "Manage collections and get them without worrying to re-create them.",
+  "homepage": "https://github.com/viljamipeltola/meteor-collections",
+  "author": "Viljami Peltola  (http://viljamipeltola.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/viljamipeltola/meteor-collections.git"
+}
