@@ -16,7 +16,7 @@ Normally we create a new collection like this:
 
     var Bananas = new Meteor.Collection('bananas');
 
-If you don't use Meteor.collections -method the new collection is accessible through collections tracked. If you still try it likely results in an error.
+If you don't use Meteor.collections -method the new collection is not  accessible with Meteor.collections. If you still try it likely results in an error.
 
 ## TODO
 
